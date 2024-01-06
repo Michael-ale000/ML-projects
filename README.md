@@ -1,2 +1,2 @@
 # ML-projects
-All ml projects is uploaded here
+All ml projects are uploaded here
